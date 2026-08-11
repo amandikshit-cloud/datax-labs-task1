@@ -1,0 +1,26 @@
+Order-ID ,  Customer  full name , Email@Address ,Order Date!!, Product Name ,Qty , Unit Price , Total Amt , Order Status , Gender , Age 
+1001,  john smith ,john.smith@email.com,12/03/2024,Laptop,1,55000,55000,delivered,Male,29
+1002,Mary  Johnson,mary.j@email.com,03-15-24,Mouse,2,750,1500,Delivered,F,Thirty
+1003,Rahul Sharma,rahul_s@email.com,2024/04/01,Keyboard,1,1500,1500,pending,,40 yrs
+1004,anita kapoor,anita.kapoor@email.com,15-05-2024,Monitor,1,12000,12000,CANCELLED,Female,28
+1005,   David Lee,davidlee@email.com,2024.06.20,Laptop Stand,3,1200,3600,Delivered,M,Thirty-five
+1006,Priya Singh,priya.singh@email.com,07/25/2024,USB Cable,5,250,1250,delivered,F,25
+1007,John Smith,john.smith@email.com,12/03/2024,Laptop,1,55000,55000,Delivered,Male,29
+1008,   mary johnson,mary.j@email.com,03-15-2024,Mouse,2,750,1500,delivered,Female,Thirty
+1009,Li Wei,liwei@email.com,2024-08-01,Headphones,1,3000,3000,Pending,,31
+1010,  Carlos Mendez ,carlos@email.com,08/15/24,Webcam,2,4500,9000,Delivered,M,40 yrs
+1011,Sara Khan,sara.khan@email.com,2024/09/05,Keyboard,1,1500,1500,delivered,F,27
+1012,John SMITH,john.smith@email.com,12-03-2024,Laptop,1,55000,55000,Delivered,Male,29
+1013,   Priya  Singh,priya.singh@email.com,07.25.2024,USB Cable,5,250,1250,Delivered,Female,25
+1014,David Lee,davidlee@email.com,2024-06-20,Laptop Stand,3,1200,3600,delivered,M,Thirty-five
+1015,Anita Kapoor,anita.kapoor@email.com,15/05/2024,Monitor,1,12000,12000,Cancelled,F,28
+1016,  Rahul Sharma,rahul_s@email.com,2024-04-01,Keyboard,1,1500,1500,Pending,Male,40 yrs
+1017,Mary Johnson,mary.j@email.com,03/15/2024,Mouse,2,750,1500,Delivered,F,Thirty
+1018,Li Wei,liwei@email.com,2024.08.01,Headphones,1,3000,3000,delivered,,31
+1019,Carlos Mendez,carlos@email.com,08-15-2024,Webcam,2,4500,9000,Delivered,M,40
+1020,Sara Khan,sara.khan@email.com,2024-09-05,Keyboard,1,1500,1500,Pending,Female,27 yrs
+1021,  john smith ,john.smith@email.com,12/03/2024,Laptop,1,55000,55000,delivered,M,29
+1022,Mary  Johnson,mary.j@email.com,03-15-24,Mouse,2,750,1500,Delivered,Female,Thirty
+1023,Rahul Sharma,rahul_s@email.com,2024/04/01,Keyboard,1,1500,1500,pending,,40
+1024,anita kapoor,anita.kapoor@email.com,15-05-2024,Monitor,1,12000,12000,CANCELLED,F,28
+1025,David Lee,davidlee@email.com,2024.06.20,Laptop Stand,3,1200,3600,Delivered,Male,Thirty
